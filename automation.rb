@@ -25,6 +25,3 @@ else
 
 
 end
-
-p "this is a test for learnng GIT"
-p " second test"
